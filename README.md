@@ -28,6 +28,9 @@ Written and maintained by a computer engineering graduate focused on
 blue team and SOC operations. Sections are expanded continuously as 
 new topics are studied and new vulnerabilities are researched.
 
+---
+*Documentation structured and formatted with the assistance of generative AI.*
+
 ## Note
 Content is self-authored and organized, occasionally refined with 
 the help of AI tooling, and based on multiple learning sources 
