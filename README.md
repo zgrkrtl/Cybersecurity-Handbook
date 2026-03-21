@@ -1,6 +1,6 @@
 # Cybersecurity Handbook
 
-A structured, publicly maintained cybersecurity reference — actively updated 
+A structured, publicly maintained cybersecurity reference actively updated 
 with current research and practical documentation.
 
 ## Contents
