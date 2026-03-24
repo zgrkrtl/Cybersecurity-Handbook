@@ -1,15 +1,20 @@
-Data Loss Prevention (DLP)
-What is Data Loss Prevention (DLP)?
-Data Loss Prevention (DLP) is a technology that prevents sensitive and critical information from leaving the institution.
+## Data Loss Prevention (DLP)
 
-Types of DLP
+### What is Data Loss Prevention (DLP)?
+Data Loss Prevention (DLP) is a technology that prevents sensitive 
+and critical information from leaving the organization.
 
-Network DLP
+### Types of DLP
 
-Network DLP is responsible for taking security actions related to leaving critical and sensitive information on the network outside the organization.
+#### Network DLP
+Network DLP is responsible for monitoring and taking security actions 
+related to sensitive and critical information leaving the organization 
+through the network.
 
-EndPoint DLP
+#### Endpoint DLP
+Unlike Network DLP, Endpoint DLP monitors activities on a particular 
+device rather than packet flow within the network. The Endpoint DLP 
+product is installed directly on the device and manages suspicious 
+activities occurring on it.
 
-Unlike Network DLP, Endpoint DLP monitors activities on a particular device rather than packet flow within the network. The Endpoint DLP product is installed on the device and after installation, it manages suspicious activities on the device.
-
-Cloud DLP
+#### Cloud DLP
