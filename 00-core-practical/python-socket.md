@@ -66,7 +66,7 @@ server.close()
 ```python
 import socket
 
-# --- CLIENT SIDE (run in separate terminal) ---
+# --- CLIENT SIDE ---
 client = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
 
 client.sendto(b"Hello UDP server", ("127.0.0.1", 9998))
@@ -81,7 +81,7 @@ client.close()
 
 ## 4. Port Scanner 
 
-Uses `connect_ex()` instead of `connect()` — returns an error code instead of raising an exception.
+Uses `connect_ex()` instead of `connect()` returns an error code instead of raising an exception.
 
 ```python
 import socket
